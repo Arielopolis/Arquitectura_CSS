@@ -1,0 +1,7 @@
+.cabecera__menu-item{
+    list-style: none;
+}
+
+.cabecera__menu-item:hover{
+    text-decoration: underline;
+}
