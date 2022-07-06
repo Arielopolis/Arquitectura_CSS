@@ -5,3 +5,10 @@
     padding: 1.5625rem 5rem;
     text-transform: lowercase;
 }
+
+@media screen and (max-width: 768px) {
+    .pie-de-pagina {
+        text-align: center;
+        
+    }
+}
